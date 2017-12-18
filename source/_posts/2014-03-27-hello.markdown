@@ -1,0 +1,16 @@
+---
+layout: post
+title: "hello"
+date: 2014-03-27 20:48:53 +0800
+comments: true
+categories: 试试
+
+---
+不就是想偷懒吗
+
+还能不能快乐的玩耍了
+
+Be Happy!
+
+再来一次!Come ON!
+
